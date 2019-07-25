@@ -36,7 +36,7 @@
 > React use name:point_right:JSX the JavaScript syntax expand.
 > it allows you to write HTML directly in JavaScript.
 >
-> :point_right:can in hte JSX directly JavaScript,only need to write **{ 'this is treated as JavaScript code' }**
+> :point_right:can in hte JSX directly JavaScript,only need to write _**{ 'this is treated as JavaScript code' }**_
 >
 #### Practice:
 > const JSX = <pre><code>&lt;h1&gt;Hello JSX!&lt;/h1&gt;</code></pre>
@@ -64,19 +64,19 @@
 
 #### Render HTML Element to the DOM
 > Exaple:
-> **ReactDOM.render(componentToRender, targetNode)**
+> _**ReactDOM.render(componentToRender, targetNode)**_
 > First parameter is want rendering a React element or component.
 >
 > The second parameter is the DOM node to which the component is to be presented.
 >
-> Use **ReactDOM.render()**
+> Use _**ReactDOM.render()**_
 
 #### Define an HTML class in JSX
 > Keyword different is can't use this word _class_ to definition HTML class.
 >
-> JSX use **className**
+> JSX use _**className**_
 >
-> JSX all the HTML attributes and anything the naming convention of the reference has become **cameICase**.
+> JSX all the HTML attributes and anything the naming convention of the reference has become _**cameICase**_.
 >
 #### Learn About self-closing JSX tags
 > JSX with HTML another important way is Autistic label.
