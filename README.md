@@ -86,3 +86,13 @@
 > Today I'm watch the Youtube about how to use HTML&CSS build Web [Build Tabs Using HTML/CSS In only 12 minutes](https://www.youtube.com/watch?v=5L6h_MrNvsk)
 >
 > I wish can learn about HTML&CSS and JavaScript how to build smiple the web and let me understand how to use any tool can help me.:blush:
+
+-------------------------
+## 26 July 2019
+> Today night in the codepen learn how build the cube box,in the Instagram look [Freddy Montes](https://www.instagram.com/fmontes/)[Twitter](https://twitter.com/fmontes),can follow he @fmontes.
+>
+> I'm really enjoy play it and have chasnge bit let it look fun:smiley:
+>
+> This is my codepen can see it:smile: [Cube Practice](https://codepen.io/kyotofu28/pen/qeaQQQ)
+>
+> Tomorrow wish can ccontinue learn anything:wink::fist:
