@@ -89,6 +89,8 @@
 
 -------------------------
 ## 26 July 2019
+> 2 round 4 Days
+>
 > Today night in the codepen learn how build the cube box,in the Instagram look [Freddy Montes](https://www.instagram.com/fmontes/)[Twitter](https://twitter.com/fmontes),can follow he @fmontes.
 >
 > I'm really enjoy play it and have chasnge bit let it look fun:smiley:
@@ -98,3 +100,51 @@
 > Tomorrow wish can ccontinue learn anything:wink::fist:
 
 =========================
+## 27-28 July 2019
+> 2 round 5-6 Days
+>
+> 27 July didn't learn and get new computer
+>
+> 28 July afternoon start to watching Youtube learn [**CSS 3D Filp Button Hover Effects**](https://www.youtube.com/watch?v=oFfvXFQV9Lo&t=4s) and [**HTML Tutorial - How to Make a Super Simple Website**](https://www.youtube.com/watch?v=PlxWf493en4&t=901s)
+>
+> It is easy learn make sure you can know correct concept and must spur myself.
+> 
+#### React: Create a Stateless Functional Component
+> The component is the core of React,All content is a component,learning how to create a conponent.
+>
+> Beacuse JSX conponent representative the HTML,so can put several components together to create more complex HTML pages.
+>
+##### Practice
+> <pre><code>const MyComponet = function() {
+>       return (
+>          &lt;div&gt;Complete challenge!&lt;/div&gt;
+>       );
+> }</code></pre>
+>
+#### React: Create a React Componet
+> React component another way is use **ES6** class sytnx.
+>
+> parent class smiple function _React.Component_
+>
+> smiple function is use class keyword create the special method used during the initialization of the created object.
+>
+#### React: Create a Component with Composition
+> How combination a lot of React component.
+> 
+> If you in the simple a application,and simple three component _Navbar_ , _Dashboard_ and _Footer_.
+>
+##### Example:
+> <pre><code>return (
+> &lt;App&gt;
+>     &lt;Navbar /&gt;
+>     &lt;Dashboard /&gt;
+>     &lt;Footer /&gt;
+> &lt;/App&gt;
+> )</code></pre>
+>
+#### React: Use React to Render Nested Components
+> Many different way can use React combination component.
+>
+> it smiplefies the development and maintenance of complex projects.
+
+============================
