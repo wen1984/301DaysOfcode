@@ -122,7 +122,7 @@
 > }</code></pre>
 >
 #### React: Create a React Componet
-> React component another way is use **ES6** class sytnx.
+> React component another way is use **ES6** class sytnax.
 >
 > parent class smiple function _React.Component_
 >
@@ -148,3 +148,42 @@
 > it smiplefies the development and maintenance of complex projects.
 
 ============================
+## 29-30 July 2019
+> 2R7-8Day
+>
+> 29 July 2019
+>
+> I'm still learn React lessons.
+>
+#### React: Compose Reacts Components
+>
+##### _**Note:**_ in the presenting ES6-Style components in other components no different than rendering the simplicity you are using.
+##### You can render JSX elements,stateless functional components,and ES6 class components in other components.
+>
+#### React: Render a Class Component to the DOM
+>
+> This is sytnax practice, **ReactDOM.render (componentToRender, targetNode)
+>
+> First parameter is presenting React components,Second parameter is in other presenting components DOM node.
+>
+> The React component's pass to **ReactDOM.render()** is slightly different from the JSX element.
+>
+> You need use and rendering nest components time same sytnax **<pre><code>ReactDOM.render(&lt;ComponentToRender /&gt;, targetNode)</code></pre>**
+>
+#### React: write a React Component from Scratch
+> 
+> The React component is React application core building block,Because often familiar with writeing them is very important.
+>
+> **PLEASE REMEMBER** React component is class expansion ES6 _React.Component_
+>
+> It is have a return HTML (from _JSX_) or null.This is React component the basic style.
+> 
+> 30 July 2019
+>
+> I'm watching YouTube [Build Tabs Using HTML/CSS In only 12 Minuite](https://www.youtube.com/watch?v=5L6h_MrNvsk&t=290s)
+>
+> learn how to build Tabs,but I don't know why output only Home and Pricing and About in the page.
+>
+> I think VScode may didn't downlond what need which tool,maybe can output complete page.
+>
+##### Keep learn and every thing make sure myself can know use correct.:raised_hands:
