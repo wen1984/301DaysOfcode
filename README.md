@@ -187,3 +187,56 @@
 > I think VScode may didn't downlond what need which tool,maybe can output complete page.
 >
 ##### Keep learn and every thing make sure myself can know use correct.:raised_hands:
+
+=========================== 
+## 31 July 2019
+> 2R9Day
+>
+#### React: Pass Props to a Stateless Functional Component
+>
+> Another feature common in React: props
+>
+> In the React,you can pass props or properties to child components.
+>
+> Example:
+> <pre><code>const Welcome = (props) => &lt;h1&gt;Hello, {props.user}!&lt;/h1&gt;</code></pre>
+>
+> Calling this value is a standard props. When dealing with stateless function components, you basically think of it as a parameter that returns a function of JSX.
+>
+#### React: Pass an Array as Props
+>
+> How to pass an array props,to pass an array to a JSX element,you must treat it as JavaScript and use braces.
+> <pre><code>&lt;ParentComponent&gt;
+>    &lt;ChildComponent color={["green", "blue", "red"]} /&gt;
+> &lt;/ParentComponent&gt;</code></pre>
+>
+> Child component can access to the properties colors, join() can use the array method when accessing properties.
+>
+> <pre><code>const ChildComponent = (props) => &lt;p&gt;{props.colors.join(', ')}&lt;/p&gt;</code></pre>
+>
+#### React: Use Default Props
+>
+> React also has an option to set default items.You can assign the default item to the component as a property of the component itself,and if necessary,React will assign the default piller.
+>
+> Example:
+> <pre><code>MyComponent.defaultProps = { location: 'San Francisco' }</code></pre>
+>
+> Practice:
+> <pre><code>const ShoppingCart = (props) => {
+>     return (
+>     &lt;div&gt;
+>   &lt;h1&gt;Shopping Cart Component&lt;/h1&gt;
+>     &lt;/div&gt;
+>     )
+> };
+> ShoppingCart.defaultProps = { items: 0 }</code></pre>
+>
+## 1-2 August 2019
+>
+> 2R10-11Day
+>
+##### This is 2Day didn't learn React lessons,Beacuse I'm write My first article DEV.
+>
+> This is My article [Deaf to Dev:A Story about a Deaf Person Learns to Code](https://dev.to/kyotofu28/from-deaf-to-dev-a-story-about-a-deaf-person-learns-to-code-3aok)
+>
+##### I wish can excitation anyone.:smiley:
