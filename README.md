@@ -240,3 +240,42 @@
 > This is My article [Deaf to Dev:A Story about a Deaf Person Learns to Code](https://dev.to/kyotofu28/from-deaf-to-dev-a-story-about-a-deaf-person-learns-to-code-3aok)
 >
 ##### I wish can excitation anyone.:smiley:
+
+===========================
+## 3-4 August 2019
+>
+> 2R12-13Day
+>
+> 3 August 2019
+>
+#### React: Override Default Props
+>
+> The ability to set default items is a usefull feature in React.
+>
+> The way to override the default item is to explicitly set the component's Prop value.
+>
+> <pre><code>&lt;Component propsName = {Value} /&gt;</code></pre>
+>
+> Example:
+> <pre><code>&lt;Items quantity = {50} /&gt;</code></pre>
+>
+#### React: Use PropTypes to Define the Props You Expect
+>
+> React provides a useful type checking feature to verify that the component received the correct type of item.
+>
+> To set propTypes,the syntax to follow is:
+> <pre><code>itemName.propTypes = {
+>   props: PropTypes.dataType.isRequired
+> };</code></pre>
+>
+#### React: Access Props Using this.props
+>
+> Whenever you refer to class component yourself,use the "this" keyword.
+>
+> To access the props in the class component,add the code "this" to access it.
+>
+> Example,if ES6 class component have a called prop "data",then {this.props.data} in the JSX.
+>
+> 4 August 2019
+> <pre><code>No Code All Day</code></pre>
+>
