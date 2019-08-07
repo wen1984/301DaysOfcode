@@ -278,4 +278,65 @@
 >
 > 4 August 2019
 > <pre><code>No Code All Day</code></pre>
+
+=========================
+## 5-6 August 2019
+>
+> 2R14-15Day
+>
+> 5 August 2019
+>
+#### React: Review Using Props with Stateless Functional
+>
+> A common pattern is to minimize statefulness and create stateless functional components.Helps stats management to be included in psecific areas of the application.
+>
+#### React:　Create a Stateful Component
+>
+> One of the most important topics of React is that state.
+>
+> State contains what data application needs to know,which may change over time.
+>
+> The state property must be set to JavaScript object.
+> Example: 
+> <pre><code>this.state = {
+> // describe your state here
+> }</code></pre>
+>
+> *Note:* _You must create the class component by extending the **React.Component** so that the state is created like this._
+>
+> 6 August 2019
+>
+#### React: Render State in the User Interface
+>
+#### React: Render State in the User Interface Another Way
+>
+#### React: Set State with this.setState
+>
+> Like this:
+> <pre><code>this.setState ({
+>   username: 'Lewis'
+> });</code></pre>
+>
+> The React hope that you will never modify it,but always **this.setState()** in used when the state change.
+
+========================
+## 7 August 2019
+>
+> 2R16Day
+>
+#### React: Bind 'this' to a class Method
+>
+> A common approach is to explicitly bind **this** in the constructor so that this binds the class when the component is initialized.
+>
+> You may have noticed that **this.handleClick = this.handleClick.bind(this)** in the constructor is used for its **handleClick** method.
+>
+#### React: Use State to Toggle an Element
+>
+> You can use them in the React application in a more complex way than you have seen so far.
+> 
+> _Bind **this** to the method constructor._
+>
+> <pre><code>this.toggleVisibility = thsi.toggleVisibility.bind(this)</code></pre>
+>
+#### React: Write a Simple Counter
 >
