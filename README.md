@@ -339,4 +339,18 @@
 > <pre><code>this.toggleVisibility = thsi.toggleVisibility.bind(this)</code></pre>
 >
 #### React: Write a Simple Counter
+
+=========================
+## 8 August 2019
 >
+>2R17Day
+>
+#### React: Create a Controlled Input
+#### React: Create a Controlled Form
+#### React: Pass State as Props to Child Components
+>
+> This three lesson I'm think them can use **input** and **textarea,** **state** and **form**
+>
+> React can controlled some element internal state,example "input" and "textarea",this use it become controlled component,this also applies to other form element,including regular HTML _form_ elements.
+>
+> A common mode is let a contain *state* the important application stateful component.
