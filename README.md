@@ -343,7 +343,7 @@
 =========================
 ## 8 August 2019
 >
->2R17Day
+> 2R17Day
 >
 #### React: Create a Controlled Input
 #### React: Create a Controlled Form
@@ -354,3 +354,13 @@
 > React can controlled some element internal state,example "input" and "textarea",this use it become controlled component,this also applies to other form element,including regular HTML _form_ elements.
 >
 > A common mode is let a contain *state* the important application stateful component.
+
+==========================
+## 9 August 2019
+>
+> 2R18Day
+>
+> I'm finally get New Book,I can looking and learn about HTML&CSS build web and use React build the App.
+>
+> I'm enjoy practice learn HTML4 build simple web,really fun:laughing:
+> 
