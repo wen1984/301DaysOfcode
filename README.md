@@ -364,3 +364,16 @@
 >
 > I'm enjoy practice learn HTML4 build simple web,really fun:laughing:
 > 
+
+===========================
+## 10-11 August 2019
+>
+> 2R19-20Day
+>
+> I keep read HTML and CSS:Design and Build Websites book,React: Up & Running book.
+>
+>  Watching YouTube learn knowlong [What is Use of Babel in React](https://www.youtube.com/watch?v=PUoFXd3b5CY&list=LLH1I7oxDWlwGBT1wWQ5U9lw&index=4&t=0s) and [SPA(Single Page Application) in React](https://www.youtube.com/watch?v=ev_BwtCbnCI&list=LLH1I7oxDWlwGBT1wWQ5U9lw&index=3&t=0s)
+>
+> Donwlong NPM and Node.js wish can learn how to build React App and Websites.
+> 
+> Patience is important for me.Step by Step same:muscle:
