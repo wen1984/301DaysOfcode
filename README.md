@@ -377,3 +377,9 @@
 > Donwlong NPM and Node.js wish can learn how to build React App and Websites.
 > 
 > Patience is important for me.Step by Step same:muscle:
+
+===========================
+## 21 August 2019
+>
+#### I didn't continue to push Twitter any post, think may stop #301daysofcode.
+> Hope can focus learn to react-native and practice to build web and app. No worry, when I start ready to go back to do #100DaysOfCode:wink:
